@@ -1,5 +1,3 @@
-0; i < d.size(); i++)
-    {
-        cout << d[i] << ' ';
-    }
-    cout << endl;
+]<0){
+        //     p[i] = (p[i]%mod+mod)%mod;
+        // }
